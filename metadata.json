@@ -1,0 +1,6 @@
+{
+  "name": "Android Lab: ListView vs RecyclerView Studio",
+  "description": "Interactive Android practical lab suite for ListView, RecyclerView, Adapter & ViewHolder implementation in Java + XML, with live emulator, code export, and lab report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
